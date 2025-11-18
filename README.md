@@ -1,6 +1,3 @@
-# it-tools
-IT-Tools - Herramientas IT - Docker compose
+# IT-Tools
 
-Ver en "localhost:8200"
-
-
+Ver en "http://localhost:8200"
