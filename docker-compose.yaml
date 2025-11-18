@@ -1,5 +1,3 @@
-version: '3.3'
-
 services:
 
     it-tools:
@@ -7,6 +5,4 @@ services:
         container_name: it-tools
         restart: unless-stopped
         ports:
-            - "8200:80"
-
-            
+            - "8200:80"            
